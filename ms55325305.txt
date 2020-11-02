@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "omorrow.co",
+  "Id": "97ca7186-1240-46bf-bc14-4d42544b71b3"
+}
